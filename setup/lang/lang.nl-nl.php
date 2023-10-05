@@ -37,7 +37,7 @@ $lang ['err'] = array(
 );
 
 $lang ['step1'] = array(
-	'head' => 'Welkom bij FlatPress!',
+	'head' => 'Ga weg',
 	'descr' => 'Bedankt dat je gekozen hebt voor <strong>FlatPress</strong>.
 		
 		Voordat je plezier kunt maken met je gloednieuwe blog, moeten we je een paar vragen stellen. 
